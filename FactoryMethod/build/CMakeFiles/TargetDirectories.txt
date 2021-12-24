@@ -1,0 +1,3 @@
+/home/Project/DesignMethod/FactoryMethod/build/CMakeFiles/rebuild_cache.dir
+/home/Project/DesignMethod/FactoryMethod/build/CMakeFiles/FactoryMethod.dir
+/home/Project/DesignMethod/FactoryMethod/build/CMakeFiles/edit_cache.dir
