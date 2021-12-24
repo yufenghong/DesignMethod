@@ -1,1 +1,1 @@
-# FactoryMethod
+# DesignMethod
